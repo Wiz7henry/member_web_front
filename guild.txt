@@ -1,2 +1,5 @@
 cmd to start the app:
     -> npm start
+
+GIT URL: https://github.com/LK-Hour/member_web_front
+WEB URL: https://member-web-front.onrender.com/
